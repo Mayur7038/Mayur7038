@@ -24,7 +24,6 @@
 <div>
    <img align="right" alt="GIF" height="350px" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" />
   <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PiyushChaukade&show_icons=true&locale=en&layout=compact" alt="PiyushChaukade" /></p>
    
 </div>
 
