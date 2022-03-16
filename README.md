@@ -38,6 +38,8 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/mayur7038/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="PiyushChaukade" height="30" width="40" /></a>
+  
+<a href="https://twitter.com/MayurMendhe7">  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxX493ViPGLpFmFH6Q7du7egbokhXHn7oPZUuy3uk2fZJxVIJJkwi1Be6n7zmj2meRP1c&usqp=CAU" height="35" width="40" />  </a>
 
 </p>
 
