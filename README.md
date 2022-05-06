@@ -12,7 +12,7 @@
 
 - 📫 You can reach me at **mayurmendhe28@gmail.com**
 
-- 📄 Curriculum Vitae [Click hehre](https://drive.google.com/file/d/1oc0yPUPVSAea_KrSGU-yUUGA3xq9FgIo/view?usp=sharing)
+- 📄 Curriculum Vitae [Click here](https://drive.google.com/file/d/1oc0yPUPVSAea_KrSGU-yUUGA3xq9FgIo/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" gap="10px"> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> 
